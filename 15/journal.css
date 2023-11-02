@@ -1,5 +1,8 @@
 body {
-   font-family: Verdana,Geneva,'Arial'
+   font-family: Verdana,Geneva,'Arial';
+   margin: 0px;
+   padding:  0px;
+   line-height: 12px;
 }
 html{
    font-size: 12px;
