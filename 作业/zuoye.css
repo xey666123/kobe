@@ -1,0 +1,156 @@
+.tit {
+    font-size: 3.2rem;
+    display: inline-block;
+    width: 100%;
+    font-weight: 700;
+    font-family: 'Pretendard', sans-serif;
+    color: #222;
+    
+}
+
+.txt {
+    color:#222222;
+    font: 16px Pretendard,sans-serif;
+    padding-right: 0;
+    padding-top: 8px;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    font-weight: 500;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    overflow: hidden;
+}
+
+.btn-moreView {
+    color: #222222;
+    font: 10px Pretendard,sans-serif;
+    background-color: #af8e65;
+    margin: 35px 0px 0px;
+    display: block;
+    top: auto;
+    bottom: 18px;
+    right: 22px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-size: 14px auto;
+    text-decoration: none;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.titArea aos-init aos-animate {
+    color: #222222;
+    font: 10px Pretendard,sans-serif;
+}
+
+.one {
+    background-image: linear-gradient(currentColor,currentColor);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0 1px;
+    transition: background-size .3s;
+    position: relative;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: 3.8rem;
+    cursor: pointer;
+    color: #222222;
+    font: 48px Pretendard,sans-serif;
+}
+
+.span {
+    color: #222222;
+    font: 20px Pretendard,sans-serif;
+    background-image: linear-gradient(currentColor,currentColor);
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    background-size: 0 1px;
+    transition: background-size .3s;
+    position: relative;
+    font-size: inherit;
+    font-weight: inherit;
+    cursor: pointer;
+}
+
+.sub_tit {
+    color: #222222;
+    font: 20px Pretendard,sans-serif;
+    margin: 10px 0px 0px;
+    padding: 0ox 0px 0px 11px;
+}
+
+.txt {
+    color: #222222;
+    font: 18px Pretendard,sans-serif;
+    padding: 12px 0px 5px;
+}
+
+.categ {
+    color: #777777;
+    font: 16px Pretendard,sans-serif;
+    font-size: 1.5rem;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.date {
+    color: #777777;
+    font: 16px Pretendard,sans-serif;
+    margin: 0px 0px 0px 12px;
+    padding: 0px 0px 0px 12px;
+    margin-left: 12px;
+    padding-left: 12px;
+    font-size: 1.5rem;
+}
+
+.aos-init.aos-animate {
+    padding: 21px 0px 25px;
+    
+}
+
+.t1t {
+    color: #222222;
+    font: 20px Pretendard,sans-serif;
+    padding-top: 26px;
+    font-size: 2rem;
+    padding: 21px 0;
+    position: relative;
+    text-align: center;
+}
+
+.tat {
+    color: #222222;
+    font: 15px Pretendard,sans-serif;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    text-align: center;
+    font-weight: 500;
+}
+
+.mBriefing {
+    display: block;
+    padding: 0 22px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    position: relative;
+    max-width: 1920px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-size: 10px;
+}
+
+.infoArea {
+    margin-top: 0;
+    padding-bottom: 15px;
+    position: relative;
+    top: 0;
+    right: auto;
+    color: #777;
+    font-size: 0;
+}
+
