@@ -22,22 +22,17 @@
     overflow: hidden;
 }
 
-.btn-moreView {
-    color: #222222;
-    font: 10px Pretendard,sans-serif;
-    background-color: #af8e65;
-    margin: 35px 0px 0px;
-    display: block;
-    top: auto;
-    bottom: 18px;
-    right: 22px;
-    position: absolute;
+.w1 {
+    font-family: 'Pretendard', sans-serif;
+    color: #222;
+    text-decoration: none;
     width: 40px;
     height: 40px;
     background-size: 14px auto;
-    text-decoration: none;
-    font-size: inherit;
-    font-weight: inherit;
+    display: block;
+    border-radius: 50%;
+    background: #AF8E65;
+    float: right;
 }
 
 .titArea aos-init aos-animate {
@@ -94,6 +89,7 @@
     position: relative;
     display: inline-block;
     vertical-align: top;
+    float: right;
 }
 
 .date {
@@ -104,11 +100,15 @@
     margin-left: 12px;
     padding-left: 12px;
     font-size: 1.5rem;
+    float: right;
 }
 
-.aos-init.aos-animate {
+.q1 {
     padding: 21px 0px 25px;
-    
+    border-top: 10px #777;
+    border-bottom: 1px #777;
+    border-width: 10px;
+    margin: 10px;
 }
 
 .t1t {
@@ -154,3 +154,10 @@
     font-size: 0;
 }
 
+.allcontent {
+	width:               2000px;
+	padding-top:           5px;
+	padding-bottom:        5px;
+	margin-left:          auto;
+	margin-right:         auto;
+}
